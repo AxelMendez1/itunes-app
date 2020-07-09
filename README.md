@@ -10,5 +10,4 @@
 
 
 # MUCHAS GRACIAS POR VISITAR MI REPO!
-Estoy mejorando mis repositorios visualmente, al igual que lo estoy haciendo con mi codigo.
-Estoy intentando pulir algunas cosas para alcanzar un poco mas de profesionalidad.
+
